@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ecowhatt.github.io/rsschool-cv/cv
