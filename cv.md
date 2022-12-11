@@ -22,9 +22,10 @@ At the moment I am in the process of moving to Portugal due to the situation in 
     * Organizational
     * Communication
     * Stress management
+
 ### Code example:
 **"Are You Playing Banjo?" from Codewars**
-*Create a function which answers the question "Are you playing banjo?". If your name starts with the letter "R" or lower case "r", you are playing banjo!*
+*Create a function which answers the question "Are you playing banjo?". If your name starts with the letter "R" or lower case "r", you are playing banjo!*\
 ```function areYouPlayingBanjo(name) {
   if (name[0] === 'R' || name[0] === 'r') {
     return `${name} plays banjo`;
@@ -33,6 +34,7 @@ At the moment I am in the process of moving to Portugal due to the situation in 
   }
 }
 ```
+
 ### Education:
 * **Higher education**
   * Minsk State Linguistic University (2018-2022)
@@ -40,6 +42,7 @@ At the moment I am in the process of moving to Portugal due to the situation in 
   * [Python Core](https://www.sololearn.com/certificates/course/en/24324311/1073/landscape/png)
   * [Project Management](https://www.linkedin.com/learning/certificates/30b0d0bac7960a32b603721f2656daa28e4bef800bad58ac94ec141f1890a650?trk=share_certificate)
   * [Agile Foundations](https://www.linkedin.com/learning/certificates/e414c7195777787a51ec968da44b63988b4dd5c9a455de23a36be7a6746bd453?trk=share_certificate)
+  
 ### Languages:
 * *English* - Upper-intermediate
 * *Russian, Belarussian* - Native
